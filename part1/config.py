@@ -1,0 +1,14 @@
+#!/usr/bin/python
+# -*- coding: utf8 -*-
+
+DIMENSION=10
+
+WHITE_SQUARE = "\u2587"
+BLACK_SQUARE = "\u0020"
+
+WHITE_PAWN = "\u25CF"
+BLACK_PAWN = "\u25CB"
+
+FREE_SPACE = 0
+WHITE_PLAYER = 1
+BLACK_PLAYER = -1
